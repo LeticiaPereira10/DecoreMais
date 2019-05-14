@@ -1,0 +1,52 @@
+	
+	  a{
+			font-size: 15pt; 
+			margin-right: 20px;
+		}
+
+		#menu{
+			width: 640px;
+			margin: auto;
+			margin-bottom:40px;
+		
+			
+			
+		}
+		
+		/*Ao passar o mouse e mudar de cor o menu*/
+		a:hover{
+			color: green;
+		
+		}
+		
+		/*Configurando caixinha das fotos*/
+		.imagem{
+			border: 1px solid #bbbbbb;
+			width: 400px;
+			float: left;
+			height: 400px;
+			margin-right: 20px;
+			margin-bottom: 20px;
+			border-radius: 10px;
+			box-shadow: 5px 10px #bbbbbb;
+			
+			
+		}
+		/*Ao passar o mouse na caixinha das fotos*/
+		.imagem:hover{
+			background-color: #dddddd;
+			cursor: pointer;
+		}
+		
+		/*Configurando nome dos Títulos*/
+		h1{
+			color: #FFFFFF;
+			text-align:center;
+			font-size: 15pt;
+			margin-bottom: 50px;
+			background-color: pink;
+			padding:10px;
+			vertical-align: middle;
+			
+		}
+		
