@@ -5,12 +5,10 @@
 		}
 
 		#menu{
-			width: 640px;
+			width: 740px;
 			margin: auto;
 			margin-bottom:40px;
-		
-			
-			
+
 		}
 		
 		/*Ao passar o mouse e mudar de cor o menu*/
@@ -50,3 +48,10 @@
 			
 		}
 		
+		.logomarca{
+			width: 400px;
+			float: left;
+			height: 400px;
+			margin-right: 20px;
+			margin-bottom: 20px;
+		}
