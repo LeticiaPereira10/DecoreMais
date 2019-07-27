@@ -1,7 +1,9 @@
-﻿git init // transforma uma pasta em um repositório
-git clone // link do projeto
+﻿git init // transforma uma pasta em um repositório(Só para projeto novo)
+git clone // link do projeto (Só para projeto novo)
 git status // verifica as alterações da pasta do projeto
 git add . // adiciona novos arquivos se necessário
 git commit -m "Minhas alterações" // mensagem informando o que foi alterado
 git push // sobe as alterações para o Github
 git pull // busca as últimas alterações do repositório
+
+ 
